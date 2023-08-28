@@ -82,7 +82,7 @@ python train.py --input_path [训练集路径]
 
 风格图为训练集中图片，因此这里的路径为训练集的路径。
 
-我们已将模型打包，可以直接测试。模型在这里下载 (链接: https://pan.baidu.com/s/1KxPDRde3cxuq26scUWPDFQ?pwd=jx2f 提取码: jx2f),下载后的模型请放于./checkpoints/文件夹下。
+我们已将模型打包，可以直接测试。模型在这里下载 (链接: https://pan.baidu.com/s/1H0PDAfacrc20jDGGgtCVGg?pwd=8gcp 提取码: 8gcp),下载后的模型请放于./checkpoints/文件夹下。
 
 使用我们提供的预训练模型和参考图像进行测试可以参考以下命令：
 
@@ -94,6 +94,3 @@ python test.py --input_path [测试集路径] --img_path [风格图路径] --out
 ## 致谢
 
 此项目基于论文 *Edge Guided GANs with Semantic Preserving for Semantic Image Synthesis* 实现，部分代码参考了 [ECGAN](https://github.com/Ha0Tang/ECGAN)。
-
-链接: https://pan.baidu.com/s/1STJxQaFBFzhVRPmE0pspqA?pwd=19ee 提取码: 19ee 
---来自百度网盘超级会员v3的分享
