@@ -83,7 +83,6 @@ python train.py --input_path [训练集路径]
 风格图为训练集中图片，因此这里的路径为训练集的路径。
 
 我们已将模型打包，可以直接测试。模型在这里下载 (链接: https://pan.baidu.com/s/1KxPDRde3cxuq26scUWPDFQ?pwd=jx2f 提取码: jx2f),下载后的模型请放于./checkpoints/文件夹下。
-```python
 
 使用我们提供的预训练模型和参考图像进行测试可以参考以下命令：
 
