@@ -1,0 +1,3 @@
+vgg19
+来源：jittor 库的骨干网络，预训练模型
+作用：models.networks.architecture 的 VGG19()，用于计算 perceptual loss
