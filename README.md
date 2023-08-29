@@ -1,4 +1,10 @@
-# Jittor 第三届计图人工智能挑战赛 风格及语义引导的风景图片生成赛道的方案
+# Jittor 风格及语义引导的风景图片生成赛道 ECGAN
+
+COESAK战队在第三届计图（jittor）人工智能挑战赛-风格及语义引导的风景图片生成赛道的方案。
+
+## 实现结果
+
+<img src="selects/49752166377_751eec5bc8_b.jpg" width="250"> <img src="selects/6729167531_1ae3602f71_b.jpg" width="250"> <img src="selects/49419346173_1d0f343d23_b.jpg" width="250"> 
 
 ## 赛题说明
 
